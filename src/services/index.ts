@@ -1,0 +1,1 @@
+export { getUserById, getUsers} from './user.service'
